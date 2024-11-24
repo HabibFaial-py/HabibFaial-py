@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Pyhton , HTML**
 
-- 📫 How to reach me **habiibfaisaljandira@gmail.com**
+- 📫 How to reach me **habibfaisaljandira@gmail.com**
 
 - ⚡ Fun fact **Debugged a "feature" – turned out it was just a missing semicolon.**
 
