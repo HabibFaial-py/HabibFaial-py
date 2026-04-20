@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/btw_itshabib" target="blank"><img src="https://img.shields.io/twitter/follow/btw_itshabib?logo=twitter&style=for-the-badge" alt="btw_itshabib" /></a> </p>
 
-- 🌱 I’m currently learning **Python , JavaScript , CSS**
+- 🌱 I’m currently learning **Python, C++
 
 - 👨‍💻 All of my projects are available at [https://github.com/HabibFaial-py](https://github.com/HabibFaial-py)
 
